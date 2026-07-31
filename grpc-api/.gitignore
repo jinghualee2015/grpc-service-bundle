@@ -37,6 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
+### ddd ###
 .flattened-pom.xml
-.idea/**
-.idea
